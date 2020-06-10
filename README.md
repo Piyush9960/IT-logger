@@ -1,4 +1,17 @@
+###Technologies used:
+# React js,
+# json-server (mock-api)
+# Redux, thunk (middleware)
+# Materialize-css
+
+###Short-Description
+1. User can add any log, it might be some pending issue or completed one..
+2. Select Technician who is responsible of that issue..
+3. Remove, Update Log,
+4. Add new Technician, can delete..
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
